@@ -1,19 +1,19 @@
 TransactionID,Category,TransactionAmount,Location,MerchantType,IsFraud,Timestamp
-1,Housing,744.37,Orlando,Rent,0,2024-10-01
-12,Suspicious,1623.88,Orlando,Night Club,1,2024-10-02
-2,Gas/Transportation,55.97,Orlando,Lyft,0,2024-10-03
-13,Food,13.25,Orlando,Trader Joe's,0,2024-10-04
-4,Clothing/Personal,52.68,Orlando,Nike,0,2024-10-07
-10,Subscriptions,15.61,Orlando,Spotify,0,2024-10-08
-18,Housing,1984.75,Orlando,Food,1,2024-10-11
-5,Clothing/Personal,41.1,Orlando,H&M,0,2024-10-13
-9,Miscellaneous,45.61,Orlando,Lottery,0,2024-10-15
-11,Food,22.64,Orlando,Trader Joe's,0,2024-10-17
-6,Miscellaneous,31.97,Orlando,Gift Shop,0,2024-10-18
-7,Subscriptions,15.87,Orlando,Netflix,0,2024-10-20
-8,Miscellaneous,23.29,Orlando,General Store,0,2024-10-21
-3,Gas/Transportation,67.76,Orlando,Gas Station,0,2024-10-24
-16,Food,18.96,Orlando,Trader Joe's,0,2024-10-25
-14,Clothing/Personal,50.16,Orlando,Nike,0,2024-10-28
-17,Food,14.44,Orlando,Walmart,0,2024-10-30
-15,Suspicious,1917.03,Orlando,Casino,1,2024-10-31
+1,Housing,750.13,Orlando,Rent,0,2024-10-01
+14,Food,20.28,Orlando,Restaurants,0,2024-10-02
+6,Food,21.79,Orlando,Restaurants,0,2024-10-04
+16,Miscellaneous,37.7,Orlando,Lottery,0,2024-10-05
+3,Gas/Transportation,58.15,Orlando,Lyft,0,2024-10-06
+13,Clothing/Personal,53.36,Orlando,H&M,0,2024-10-07
+4,Clothing/Personal,47.45,Orlando,Nike,0,2024-10-08
+11,Subscriptions,14.99,Orlando,Gym Membership,0,2024-10-10
+5,Miscellaneous,40.17,Orlando,General Store,0,2024-10-12
+2,Suspicious,1474.98,Orlando,Casino,1,2024-10-15
+18,Gas/Transportation,1704.47,Orlando,Food,1,2024-10-16
+8,Gas/Transportation,59.18,Orlando,Uber,0,2024-10-16
+9,Clothing/Personal,36.53,Orlando,Nike,0,2024-10-17
+12,Subscriptions,11.55,Orlando,Spotify,0,2024-10-18
+15,Miscellaneous,25.29,Orlando,Gift Shop,0,2024-10-21
+7,Food,10.99,Orlando,Restaurants,0,2024-10-29
+10,Suspicious,1776.39,Orlando,Night Club,1,2024-10-30
+17,Food,18.6,Orlando,Local Deli,0,2024-10-31
